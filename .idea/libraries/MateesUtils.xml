@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MateesUtils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../java/MateesUtils/out/jar/MateesUtils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
